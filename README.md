@@ -47,7 +47,6 @@ The Sales Director has outlined specific requirements to evaluate the company's 
 ---
 
 ## 🔧 Data Used  
-- **Dataset**:
 - (<a href="https://github.com/NikhilChoudhary-93/Sales-Analysis-Project-using-Tableau/blob/main/Database_dump.xlsx">DataSet1</a>)
 - (<a href="https://github.com/NikhilChoudhary-93/Sales-Analysis-Project-using-Tableau/blob/main/DataBase_dump_v1.xlsx">DataSet2</a>)
 
